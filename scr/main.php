@@ -4,6 +4,7 @@ class main
 this is an absolutely error
 this is another error
 3rd line error
+4th line error
     private static $FOO = 2; // Unused - expected sonarcloud find it
     private $i = 8; // Unused
     private $j = 6;
