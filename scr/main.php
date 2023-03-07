@@ -3,6 +3,7 @@ class main
     a= 5+ 6 // this must b an error
 this is an absolutely error
 this is another error
+3rd line error
     private static $FOO = 2; // Unused - expected sonarcloud find it
     private $i = 8; // Unused
     private $j = 6;
