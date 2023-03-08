@@ -1,6 +1,6 @@
 name: sonarcloud action
-sonar.projectKey: michaeltran33_test3-php
-sonar.projectName: michaeltran33
+#sonar.projectKey: michaeltran33_test3-php
+#sonar.projectName: michaeltran33
 on:
   push:
     branches:
